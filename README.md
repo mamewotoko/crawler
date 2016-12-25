@@ -10,15 +10,17 @@ make
 Run
 ---
 1. modify config_level, config_init_url in crawler.ml as you like.
-```
-let config_level = 4
-let config_init_url = "http://mamewo.ddo.jp/"
-```
+
+    ```
+    let config_level = 4
+    let config_init_url = "http://mamewo.ddo.jp/"
+    ```
 2. build
 3. run
-```
-./crawler
-```
+
+    ```
+    ./crawler
+    ```
 
 TODO
 ----
