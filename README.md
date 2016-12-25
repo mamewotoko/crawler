@@ -31,6 +31,7 @@ TODO
   * depth?
   * sleep time?
   * no gentleness?
+* handle robot.txt
 * create output directory separated by hostname
 * usage: collect images on website
   * not supporing images fetched by JavaScript
